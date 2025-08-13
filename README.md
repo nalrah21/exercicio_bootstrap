@@ -1,4 +1,4 @@
-# Responsive Registration Form
+# Exercicio Bootstrap
 
 Um site simples de formulário de cadastro responsivo, feito com **HTML**, **CSS**, **Bootstrap** e **JavaScript**.
 
